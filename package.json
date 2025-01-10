@@ -8,7 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "��#\u0000 \u0000D\u0000e\u0000v\u0000t\u0000i\u0000n\u0000d\u0000e\u0000r\u0000\r\u0000 \u0000",
   "dependencies": {
     "bcrypt": "^5.1.1",
     "cookie-parser": "^1.4.7",
@@ -18,5 +18,6 @@
     "mongoose": "^8.9.2",
     "nodemon": "^3.1.7",
     "validator": "^13.12.0"
-  }
+  },
+  "keywords": []
 }
